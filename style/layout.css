@@ -43,7 +43,7 @@ aside{
     }
 
 
-    }
+  
 
     & h2{
         font: 600 2.5rem/1.25 var(--font-family);
@@ -54,4 +54,4 @@ aside{
         }
 
     }
-}
+} 
