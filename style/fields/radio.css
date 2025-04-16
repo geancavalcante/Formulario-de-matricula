@@ -43,6 +43,7 @@ label + .radio-wrapper{
         & .radio-image{
             background-image:url(../../assets/icons/radio-hover.svg) ;
         }
+    }
 
     &:has(:checked) {
         border: 2px solid var(--stroke-highlight);
@@ -50,7 +51,7 @@ label + .radio-wrapper{
         & .radio-image{
             background-image: url(../../assets/icons/radio-checked.svg);
             }
-        }
+        
     }
 
 }
